@@ -15,6 +15,7 @@ The book has 10 chapters:
 8. Methods
 9. Style
 10. Beautiful Features
+
 * Appendix A. Awful Parts
 * Appendix B. Bad Parts
 * Appendix C. JSLint
